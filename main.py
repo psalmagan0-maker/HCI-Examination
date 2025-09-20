@@ -30,4 +30,3 @@ def gps_tracker():
 
 # Run the GPS tracker
 gps_tracker()
-Write
